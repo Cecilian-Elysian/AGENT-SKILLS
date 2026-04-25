@@ -1,6 +1,6 @@
 ---
 name: obsidian-canvas-creator
-description: 在 Obsidian 中创建 .canvas 文件。当用户明确要求创建 canvas、制作 canvas、生成 canvas、从 wiki 内容创建 canvas，或请求将笔记/文件内容转换为 canvas 格式时使用此技能。
+description: 在 Obsidian 中创建 .canvas 文件。当用户明确要求创建 canvas、制作 canvas、生成 canvas、从 wiki 内容创建 canvas，或请求将笔记/文件内容转换为 canvas 格式时使用此技能,或者使用/canvas时.
 ---
 
 # Obsidian Canvas 创建器
